@@ -1,1 +1,1 @@
-git folder
+git files and folders
